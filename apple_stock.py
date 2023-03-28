@@ -1,4 +1,4 @@
-# Scrapping data of Apple Stocks on Yahoo Finance
+# Scraping data of Apple Stocks on Yahoo Finance
 # https://finance.yahoo.com/quote/AAPL/history?p=AAPL
 from bs4 import BeautifulSoup
 import requests
