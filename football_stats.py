@@ -1,4 +1,4 @@
-# Scrapping data of CBS NFL Players and Display top 20 NFL players ranked by number of touchdown
+# Scraping data of CBS NFL Players and Display top 20 NFL players ranked by number of touchdown
 # https://www.cbssports.com/nfl/stats/player/passing/nfl/regular/qualifiers/?sortcol=td&sortdir=descending
 from bs4 import BeautifulSoup
 import requests
